@@ -1,0 +1,3 @@
+/Users/trisha/CLionProjects/xCamp602/harkerGirlsF23/cmake-build-debug/CMakeFiles/harkerGirlsF23.dir
+/Users/trisha/CLionProjects/xCamp602/harkerGirlsF23/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisha/CLionProjects/xCamp602/harkerGirlsF23/cmake-build-debug/CMakeFiles/rebuild_cache.dir

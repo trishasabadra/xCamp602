@@ -1,0 +1,3 @@
+/Users/trisha/CLionProjects/xCamp602/MinimumPath/cmake-build-debug/CMakeFiles/MinimumPath.dir
+/Users/trisha/CLionProjects/xCamp602/MinimumPath/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisha/CLionProjects/xCamp602/MinimumPath/cmake-build-debug/CMakeFiles/rebuild_cache.dir

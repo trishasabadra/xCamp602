@@ -1,0 +1,3 @@
+/Users/trisha/CLionProjects/xCamp602/XORclique/cmake-build-debug/CMakeFiles/XORclique.dir
+/Users/trisha/CLionProjects/xCamp602/XORclique/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisha/CLionProjects/xCamp602/XORclique/cmake-build-debug/CMakeFiles/rebuild_cache.dir

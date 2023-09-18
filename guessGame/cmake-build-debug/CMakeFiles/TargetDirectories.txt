@@ -1,0 +1,3 @@
+/Users/trisha/CLionProjects/xCamp602/guessGame/cmake-build-debug/CMakeFiles/guessGame.dir
+/Users/trisha/CLionProjects/xCamp602/guessGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisha/CLionProjects/xCamp602/guessGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

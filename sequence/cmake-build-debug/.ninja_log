@@ -1,0 +1,4 @@
+# ninja log v5
+2	329	1692056387825984117	build.ninja	8bac51cdd3f8e915
+0	5224	1692056397686201959	CMakeFiles/sequence.cpp.dir/sequence.cpp.o	57347acfc1dff004
+5239	5594	1692056398076148449	sequence.cpp	6c21b65f005f76bd

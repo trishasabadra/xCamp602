@@ -1,0 +1,3 @@
+/Users/trisha/CLionProjects/xCamp602/knights/cmake-build-debug/CMakeFiles/knights.dir
+/Users/trisha/CLionProjects/xCamp602/knights/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisha/CLionProjects/xCamp602/knights/cmake-build-debug/CMakeFiles/rebuild_cache.dir

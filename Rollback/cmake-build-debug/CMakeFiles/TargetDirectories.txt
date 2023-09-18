@@ -1,0 +1,3 @@
+/Users/trisha/CLionProjects/xCamp602/Rollback/cmake-build-debug/CMakeFiles/Rollback.dir
+/Users/trisha/CLionProjects/xCamp602/Rollback/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisha/CLionProjects/xCamp602/Rollback/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/trisha/CLionProjects/xCamp602/not3color/cmake-build-debug/CMakeFiles/not3color.dir
+/Users/trisha/CLionProjects/xCamp602/not3color/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trisha/CLionProjects/xCamp602/not3color/cmake-build-debug/CMakeFiles/rebuild_cache.dir
