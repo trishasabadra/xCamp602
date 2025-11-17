@@ -1,1 +1,1 @@
-compProgramming- this is a repo for all Xcamp 602H homework problems
+competitive programming - this is a repo for all Xcamp 602H problems
